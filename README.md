@@ -33,6 +33,6 @@ The system executes an asynchronous, transition-driven lifecycle to safely bridg
 
 ---
 
-## 🧪 Testing & Validation
+## Testing & Validation
 * **Unit Testing:** Uses JUnit 5 (`CSVLoggerTest.java`) to assert accurate file-system logs, automated header generation, and file appending rules.
 * **Electrical Probing:** Verified physical hardware signals with digital multimeters to calibrate perfect square waveforms ($0\text{V}$ standby up to $5.02\text{V}$ button press transitions).
