@@ -2,7 +2,7 @@
 
 A multi-threaded task management timer combining Java software control loops with an Arduino Nano to advance productivity and personalized learning routines.
 
-[Read Full Project Documentation](https://github.com/yanolsh06/Temperature-Monitor/blob/1029064ea2c87b4b9075335a5b2fd3d7a505328f/Tempertaure%20Monitor%20Documentation.pdf)
+[Read Full Project Documentation](https://github.com/yanolsh06/Smart-Alarm-System/blob/3c065a55defac975ed70fcd8bf29287c34e0e5c1/Smart%20Alarm%20Documentation.pdf)
 
 ---
 
