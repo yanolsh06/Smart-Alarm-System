@@ -5,8 +5,8 @@ A multi-threaded task management timer combining Java software control loops wit
 ---
 
 ## 📸 Hardware Setup & Prototyping
-![Smart Alarm System Setup](./{7D2D268A-FB18-49A7-BBBE-CEEC1F9319D8}.png) 
-*(Replace with your alarm image filename)*
+![image alt](https://github.com/yanolsh06/Smart-Alarm-System/blob/e4469564cca571d7e1fdfcb0f3e13968c960c128/13A7497B-BE47-4D60-ADD0-45975820A18A.png)
+
 
 ---
 
